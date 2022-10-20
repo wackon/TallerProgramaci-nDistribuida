@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "vjIRK8moEopSMvEc8HeqVTMPPXlJiwC3szdcQ8mb3nE=",
+  "Source": "Taller",
+  "BasePath": "_content/Taller",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Taller\\wwwroot",
+      "Source": "Taller",
+      "ContentRoot": "C:\\Users\\wackon\\Desktop\\Semestre 7\\Progamación Distribuida\\Taller 1\\wwwroot\\",
+      "BasePath": "_content/Taller",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
